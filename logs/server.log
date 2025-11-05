@@ -1,0 +1,12 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 222 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.61.232:3000/
+8:10:21 PM [vite] ✨ new dependencies optimized: react-leaflet, leaflet, @splinetool/react-spline, @react-three/fiber, @react-three/drei
+8:10:21 PM [vite] ✨ optimized dependencies changed. reloading
+The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-RLMGAKMB.js?v=9314198c" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
